@@ -1,2 +1,2 @@
 # atm-eureka-service
-This is to simulate ATM service.
+This is a sample service to simulate ATM.
